@@ -101,6 +101,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-**Your Name** - Sanskrut Pardhi
+**Name** - Sanskrut Pardhi
 
 **Email ID** - sanskrutpardhi2@gmail.com
+**Contact Number** - +91 9226631488 
